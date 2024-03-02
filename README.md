@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm Dinesh from India<br><br>- 🔭 I’m working as a senior software developer at Strategywerks.<br>- 📚 I'm currently learning nextJS<br>- ⚡ In my free time I love to novels and watch netflix.</p>
 
 ###
 
