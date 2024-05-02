@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://scontent.fdel1-6.fna.fbcdn.net/v/t1.6435-1/104939159_3014319761979457_701893024561210995_n.jpg?stp=dst-jpg_p480x480&_nc_cat=109&ccb=1-7&_nc_sid=2b6aad&_nc_ohc=Mg-N4KFybkoAX8ZLwlh&_nc_ht=scontent.fdel1-6.fna&oh=00_AfDEa_boKvJtDRukmCYaFAn55pbAyNK2-oIx8h3yft1DrQ&oe=660A48C6"  />
+  <img height="150" src="https://www.idineshgarg.in/avatar.svg"  />
 </div>
 
 ###
