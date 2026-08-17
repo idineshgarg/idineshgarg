@@ -18,7 +18,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/idineshgarg/count.svg?"  />
+  <img src="https://komarev.com/ghpvc/?username=idineshgarg&label=Profile+views&color=0077b5&style=flat"  />
 </div>
 
 ###
