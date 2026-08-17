@@ -68,8 +68,8 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/idineshgarg/idineshgarg/master/generated/overview.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/idineshgarg/idineshgarg/master/generated/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/idineshgarg/idineshgarg/master/github-metrics.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/idineshgarg/idineshgarg/master/github-languages.svg" height="150" alt="languages graph"  />
 </div>
 
 ###
